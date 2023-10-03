@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream.h>
 //program to searching a key in BST
 struct TreeNode {
     int key;
