@@ -1,7 +1,8 @@
-<div>
-    <h2 align="center">Welcome to DSAProblemsHub! 🚀</h2>
-        <img src="https://external-preview.redd.it/hacktoberfest-2023-coming-soon-celebrating-ten-years-of-v0-7iAxY9XdcB1RlomtBWqvtgsafP-TAHZ3h0Goveo_Zjc.jpg?auto=webp&s=a7255699d6e0a0a1a7d2cdc5f10f35cf836861e5" width="150" height="150" align="center">
-</div>
+<h2 align="center">Welcome to DSAProblemsHub! 🚀</h2>
+
+<p align="center">
+  <a href="https://hacktoberfest.digitalocean.com/"><img src="https://miro.medium.com/v2/resize:fit:1200/1*Lz_KFgbak2sUjwjOG9SZ4g.png" alt="Hacktoberfest Logo" width="400"></a>
+</p>
 
 <!-- Intro  -->
 <h3 align="center">
@@ -35,35 +36,34 @@
 
 <br/>
 <br/>
-<br/>
 
-## Topics Covered
+## 📚 Topics Covered
 
-        | Topic                      | Description                                      |
-        | -------------------------- | ------------------------------------------------ |
-        | 1. Arrays                  | Classic array-based problems and solutions.      |
-        | 2. Strings                 | String manipulation and algorithm challenges.    |
-        | 3. Linked Lists            | Problems involving linked list data structures.  |
-        | 4. Queues                  | Queue-related algorithms and challenges.         |
-        | 5. Hashing                 | Hashing techniques and related problems.         |
-        | 6. Binary Trees            | Binary tree traversal and manipulation.          |
-        | 7. Binary Search Trees     | Challenges involving binary search trees (BSTs). |
-        | 8. AVL Trees               | AVL tree operations and problems.                |
-        | 9. Heap                    | Heap data structure and related challenges.      |
-        | 10. Trie                   | Trie-based algorithms and solutions.             |
-        | 11. Segment Trees          | Segment tree data structure and problems.        |
-        | 12. Breadth First Search   | BFS algorithm and applications.                  |
-        | 13. Depth First Search     | DFS algorithm and applications.                  |
-        | 14. Dijkstra's Algorithm   | Dijkstra's shortest path algorithm.              |
-        | 15. Bellman Ford Algorithm | Bellman Ford shortest path algorithm.            |
-        | 16. Kruskal's Algorithm    | Kruskal's minimum spanning tree algorithm.       |
-        | 17. Sorting Algorithms     | Various sorting algorithms and challenges.       |
-        | 18. Searching Algorithms   | Different searching algorithms and problems.     |
-        | 19. Greedy Algorithms      | Greedy algorithmic strategies and challenges.    |
-        | 20. Divide and Conquer     | Problems solved using divide and conquer.        |
-        | 21. Dynamic Programming    | Dynamic programming solutions and problems.      |
-        | 22. Backtracking           | Backtracking algorithm and applications.         |
-        | 23. Sieve Algorithm        | Sieve of Eratosthenes algorithm.                 |
+| Topic                      | Description                                      |
+| -------------------------- | ------------------------------------------------ |
+| 1. Arrays                  | Classic array-based problems and solutions.      |
+| 2. Strings                 | String manipulation and algorithm challenges.    |
+| 3. Linked Lists            | Problems involving linked list data structures.  |
+| 4. Queues                  | Queue-related algorithms and challenges.         |
+| 5. Hashing                 | Hashing techniques and related problems.         |
+| 6. Binary Trees            | Binary tree traversal and manipulation.          |
+| 7. Binary Search Trees     | Challenges involving binary search trees (BSTs). |
+| 8. AVL Trees               | AVL tree operations and problems.                |
+| 9. Heap                    | Heap data structure and related challenges.      |
+| 10. Trie                   | Trie-based algorithms and solutions.             |
+| 11. Segment Trees          | Segment tree data structure and problems.        |
+| 12. Breadth First Search   | BFS algorithm and applications.                  |
+| 13. Depth First Search     | DFS algorithm and applications.                  |
+| 14. Dijkstra's Algorithm   | Dijkstra's shortest path algorithm.              |
+| 15. Bellman Ford Algorithm | Bellman Ford shortest path algorithm.            |
+| 16. Kruskal's Algorithm    | Kruskal's minimum spanning tree algorithm.       |
+| 17. Sorting Algorithms     | Various sorting algorithms and challenges.       |
+| 18. Searching Algorithms   | Different searching algorithms and problems.     |
+| 19. Greedy Algorithms      | Greedy algorithmic strategies and challenges.    |
+| 20. Divide and Conquer     | Problems solved using divide and conquer.        |
+| 21. Dynamic Programming    | Dynamic programming solutions and problems.      |
+| 22. Backtracking           | Backtracking algorithm and applications.         |
+| 23. Sieve Algorithm        | Sieve of Eratosthenes algorithm.                 |
 
 ## 🚀 Contribution Guidelines
 
