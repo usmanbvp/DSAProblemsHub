@@ -10,9 +10,6 @@
 </h3>
 
 <!-- About DSAProblemsHub -->
-
-# About DSAProblemsHub 🚀
-
 <p>
 
 📚 &emsp; Welcome to **DSAProblemsHub**, your ultimate destination for mastering Data Structures and Algorithms (DSA)! <br/><br/>
@@ -35,7 +32,6 @@
 
 </p>
 
-<br/>
 <br/>
 <br/>
 
@@ -70,8 +66,6 @@
 ## 🚀 Contribution Guidelines
 
 <!-- Contribution -->
-
-## 🤝 Contribution
 
 We're excited to have you join us in this journey of learning and contributing to open source. Follow these steps to get started:
 
@@ -115,7 +109,7 @@ We're excited to have you join us in this journey of learning and contributing t
 
 Feel free to ask questions or seek help in our vibrant developer community if you encounter any issues. Happy coding! 🎉
 
-```
+
 
 ## 📄 License
 
@@ -124,4 +118,3 @@ This repository is open-source and is licensed under the MIT License.
 👉 [Explore DSAProblemsHub](https://github.com/YourUsername/DSAProblemsHub)
 
 Happy coding! ❤️🚀
-```
