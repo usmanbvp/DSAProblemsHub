@@ -57,7 +57,6 @@ We're excited to announce that DSAProblemsHub is actively participating in Hackt
 ## 🚀 Contribution Guidelines
 
 We're excited to have you join us in this journey of learning and contributing to open source. Follow these steps to get started:
-
 1. **Fork this repository**: Click the "Fork" button at the top-right of this page to create your copy of the repository.
 2. **Clone the repository**: Clone the repository to your local machine using the following command:
    ```sh
