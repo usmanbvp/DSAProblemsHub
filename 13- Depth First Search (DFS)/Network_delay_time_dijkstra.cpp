@@ -33,7 +33,7 @@ All the pairs (ui, vi) are unique. (i.e., no multiple edges.)
 
 #include<bits/stdc++.h>
 
-// Solution 1: Dijkstra's Algorithm
+// Solution : Dijkstra's Algorithm
 
 class Solution {
 public:
