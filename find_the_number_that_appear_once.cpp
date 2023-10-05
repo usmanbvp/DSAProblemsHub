@@ -1,4 +1,6 @@
 //leetcode
+
+https://leetcode.com/problems/single-number/description/
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {

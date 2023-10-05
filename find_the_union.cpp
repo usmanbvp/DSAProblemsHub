@@ -1,5 +1,7 @@
 // coding ninjas question named merge 2 sorted array
 
+
+https://www.codingninjas.com/studio/problems/sorted-array_6613259?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
 vector<int> removeDuplicates(vector<int> &arr, int n) {
     for (int i = 0; i < n - 1; i++) {
         if (arr[i] == arr[i + 1]) {
