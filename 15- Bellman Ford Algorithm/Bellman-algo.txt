@@ -12,7 +12,7 @@ function bellmanFord(G, S)
         previous[V] <- U  
   
   for each edge (U,V) in G  
-    If distance[U] + edge_weight(U, V) < distance[V}  
+    If distance[U] + edge_weight(U, V) < distance[V] 
       Error: Negative Cycle Exists  
   
   return distance[], previous[]  
