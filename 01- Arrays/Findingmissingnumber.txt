@@ -1,0 +1,28 @@
+#include <stdio.h>
+
+// Function to find the missing number in an array
+int findMissingNumber(int arr[], int n) {
+    int XOR = 0;
+    
+    // XOR all the elements in the given array
+    for (int i = 0; i < n - 1; i++) {
+        XOR ^= arr[i];
+    }
+    
+    // XOR all the elements from 1 to n
+    for (int i = 1; i <= n; i++) {
+        XOR ^= i;
+    }
+    
+    return XOR;
+}
+
+int main() {
+    int arr[] = {1, 2, 4, 6, 3, 7, 8};
+    int n = sizeof(arr) / sizeof(arr[0]);
+    
+    int missingNumber = findMissingNumber(arr, n);
+    printf("The missing number is: %d\n", missingNumber);
+    
+    return 0;
+}
