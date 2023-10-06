@@ -5,7 +5,7 @@
 int findMajorityElement(std::vector<std::vector<int>>& matrix) {
     if (matrix.empty() || matrix[0].empty()) {
         return -1; // Return -1 to indicate no majority element.
-    }
+    } 
 
     int candidate = -1;
     int count = 0;
