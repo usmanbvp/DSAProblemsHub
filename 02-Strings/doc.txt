@@ -1,1 +1,2 @@
 Add Strings related all kinds of problems in this folder.
+    -Number of Sub-Strings
