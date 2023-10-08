@@ -1,0 +1,32 @@
+#include <iostream>
+#include <stack>
+using namespace std;
+
+bool isPair(char a, char b) {
+    return (a=='(' && b==')') || (a=='{' && b=='}') || (a=='[' && b==']');
+}
+
+bool isValid(string s) {
+    stack<char>st;
+    for(int i=0;i<s.length();i++) {
+        char t = s[i];
+        if(t=='(' || t=='{' || t=='[') {
+            st.push(t);
+        } else if(!st.empty()) {
+            if(isPair(st.top(), t)) {
+                st.pop();
+            } else return false;
+        } else {
+            return false;
+        }
+    }
+    return st.empty();
+}
+
+int main()
+{
+    string s = "{()[]}";
+    cout<<isValid(s);
+
+    return 0;
+}
