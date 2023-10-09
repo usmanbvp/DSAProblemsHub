@@ -33,12 +33,6 @@ void CreateHeap(vector<int>& vec, int A[], int n){
     }
 }
  
-void createHeap(int A[], int n){
-    for (int i=0; i<n; i++){
-        InsertInplace(A, i);
-    }
-}
- 
 template <class T>
 void Print(T& vec, int n, char c){
     cout << c << ": [" << flush;
@@ -57,15 +51,8 @@ int main() {
     cout << "Create Heap" << endl;
     int b[] = {10, 20, 30, 25, 5, 40, 35};
     Print(b, sizeof(b)/sizeof(b[0]), 'b');
- 
     vector<int> v;
     CreateHeap(v, b, sizeof(b)/sizeof(b[0]));
     Print(v, v.size(), 'v');
- 
-    cout << "Inplace Insert" << endl;
-    createHeap(b, sizeof(b)/sizeof(b[0]));
-    Print(b, sizeof(b)/sizeof(b[0]), 'b');
- 
- 
     return 0;
 }
