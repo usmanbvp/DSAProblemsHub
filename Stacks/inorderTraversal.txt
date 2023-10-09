@@ -1,3 +1,5 @@
+// Print inorder traversal of a binary tree using stack data structure
+
 #include <iostream>
 #include <stack>
 using namepsace std;
