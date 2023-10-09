@@ -1,13 +1,11 @@
-
 #include <iostream>
 #include <vector>
 #include <queue>
-
 using namespace std;
-
 class Solution 
 {
-    public: 
+    public:
+    //Function to find minimum time required to rot all oranges. 
     int orangesRotting(vector<vector<int>>& grid) {
         
         queue<pair<int,int>> q;
@@ -108,4 +106,4 @@ int main(){
 		cout << ans << "\n";
 	}
 	return 0;
-}  
+}  // } Driver Code Ends
