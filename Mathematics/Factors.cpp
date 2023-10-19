@@ -1,6 +1,10 @@
 /*
     A C++ program to find all factors of a given number in O(sqrt(n)) time complexity
     and storing the factors in a vector data structure.
+    The factorization algorithm takes O(sqrt(n)) time where n is the given number
+    while sorting the vector takesa O(m*log(m)) where m is the number of factors
+    Overall time complexity: O(sqrt(n))+O(m*log(m)) 
+    but for relatively large number 'n' time complexity can be simplified to: O(sqrt(n))
     @author [Abdul Kadir](https://github.com/AK3847)
 */
 #include<bits/stdc++.h>
