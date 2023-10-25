@@ -20,7 +20,7 @@ int main() {
     
     std::cout << "Enter the second integer: ";
     if (!(std::cin >> num2)) {
-        std::cerr << "Invalid input. Please enter a valid integer.\n";
+        std::cerr << "Invalid input is there. Please enter a valid integer.\n";
         return 1; // Exit with an error code
     }
 
